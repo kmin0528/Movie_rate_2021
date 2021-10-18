@@ -286,4 +286,3 @@ react-router-dom 설치
 - import {Link} from 'react-router-dom' 를 임포트 한다.
 
 
-
